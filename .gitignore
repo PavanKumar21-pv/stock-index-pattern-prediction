@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+venv37/
+
+# Local/runtime files
+.matplotlib/
+.tmp_docx_extract/
+
+# IDE and assistant metadata
+.vscode/
+.agents/
+.codex/
+
+# Original screenshot document; exported PNGs live in assets/screenshots.
+SCREENS.docx
+
+# Local upload/export packages
+*.zip

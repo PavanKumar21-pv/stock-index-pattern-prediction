@@ -1,0 +1,41 @@
+{
+  "version": "tpa_lstm_v4_calibrated_return",
+  "window_size": 30,
+  "feature_columns": [
+    "value",
+    "MA_5",
+    "MA_10",
+    "MA_20",
+    "MA_30",
+    "MA_50",
+    "MA_100",
+    "EMA_5",
+    "EMA_10",
+    "EMA_20",
+    "EMA_50",
+    "Return",
+    "Return_Lag_1",
+    "Return_Lag_2",
+    "Return_Lag_3",
+    "Return_Lag_5",
+    "Return_Lag_10",
+    "Volatility_5",
+    "Volatility_10",
+    "Volatility_20",
+    "Momentum_1",
+    "Momentum_3",
+    "Momentum_5",
+    "Momentum_10",
+    "Momentum_20",
+    "Price_MA5_Ratio",
+    "Price_MA20_Ratio",
+    "Price_MA50_Ratio",
+    "MA5_MA20_Ratio",
+    "MA20_MA50_Ratio"
+  ],
+  "target": "next_day_log_return",
+  "input_shape": [
+    30,
+    30
+  ]
+}
