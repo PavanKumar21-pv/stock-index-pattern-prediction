@@ -86,22 +86,22 @@ run.bat
 ### Model Results
 
 #### SVM Algorithm
-![SVM Results](screenshots/svm-results.png)
+![SVM Results](screenshots/svm.png)
 
 #### Random Forest Algorithm
-![Random Forest Results](screenshots/random-forest-results.png)
+![Random Forest Results](screenshots/random-forest.png)
 
 #### Bayesian Ridge
-![Bayesian Ridge Results](screenshots/bayesian-ridge-results.png)
+![Bayesian Ridge Results](screenshots/bayesian-ridge.png)
 
 #### XGBoost Regressor
-![XGBoost Results](screenshots/xgboost-results.png)
+![XGBoost Results](screenshots/xgboost-regressor.png)
 
 #### TPA-LSTM (Proposed Model)
-![TPA-LSTM Results](screenshots/tpa-lstm-results.png)
+![TPA-LSTM Results](screenshots/tpa-lstm.png)
 
 #### Multivariate LSTM-FCN
-![Multivariate LSTM-FCN Results](screenshots/multivariate-lstm-fcn-results.png)
+![Multivariate LSTM-FCN Results](screenshots/multivariate-lstm-fcn.png)
 
 ### Model Comparison
 
@@ -119,8 +119,8 @@ run.bat
 
 ## Repository Link
 
-After publishing to GitHub, use this link in your resume:
+Visit the repository here:
 
 ```text
-https://github.com/pavankuma38767-bit/stock-index-pattern-prediction
+https://github.com/PavanKumar21-pv/stock-index-pattern-prediction
 ```
